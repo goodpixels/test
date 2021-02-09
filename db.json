@@ -1,0 +1,81 @@
+{
+	"watches": [{
+			"name": "rolex submariner",
+			"type": "luxury",
+			"price": 8500,
+			"city": "geneva"
+		},
+		{
+			"name": "omega speedmaster",
+			"type": "luxury",
+			"price": 6200,
+			"city": "geneva"
+		},
+		{
+			"name": "omega seamaster",
+			"type": "luxury",
+			"price": 4500,
+			"city": "geneva"
+		},
+		{
+			"name": "omega planet ocean",
+			"type": "luxury",
+			"price": 5950,
+			"city": "geneva"
+		},
+		{
+			"name": "tag heuer aquaracer",
+			"type": "normal",
+			"price": 2000,
+			"city": "london"
+		},
+		{
+			"name": "tag heuer carrera",
+			"type": "normal",
+			"price": 3600,
+			"city": "london"
+		},
+		{
+			"name": "longines heritage",
+			"type": "normal",
+			"price": 900,
+			"city": "london"
+		},
+		{
+			"name": "certina powermatic",
+			"type": "normal",
+			"price": 500,
+			"city": "london"
+		},
+		{
+			"name": "tissot",
+			"type": "normal",
+			"price": 350,
+			"city": "london"
+		},
+		{
+			"name": "rolex daytona",
+			"type": "luxury",
+			"price": 14000,
+			"city": "geneva"
+		},
+		{
+			"name": "tag heuer autavia",
+			"type": "normal",
+			"price": 4800,
+			"city": "london"
+		},
+		{
+			"name": "tudor pelagos",
+			"type": "normal",
+			"price": 3750,
+			"city": "london"
+		},
+		{
+			"name": "cartier tank",
+			"type": "normal",
+			"price": 2600,
+			"city": "london"
+		}
+	]
+}
